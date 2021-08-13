@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Mudassar</string>
     <string name="title_activity_message">MessageActivity</string>
+    <string name="textview">Product Viewed and Push notification sent</string>
+    <string name="view_product">view Product</string>
+    <string name="content_message">Product Viewed and Push notification sent</string>
 </resources>
